@@ -4,8 +4,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Travel App",
-  description: "Modern UI/UX travel App for camping",
+  title: "Ziara",
+  description: "Modern travel app built for adventeres",
 };
 
 export default function RootLayout({

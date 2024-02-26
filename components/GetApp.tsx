@@ -18,7 +18,7 @@ const GetApp = () => {
               type="button"
               title="Download App"
               icon="/apple.svg"
-              variant="btn_white"
+              variant="btn_brown"
               full
             />
             <Button
