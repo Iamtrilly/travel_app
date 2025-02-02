@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+    { href: '/', key: 'how_ziara_work', label: 'How Ziara Works?' },
     { href: '/', key: 'services', label: 'Services' },
     { href: '/', key: 'pricing ', label: 'Pricing ' },
     { href: '/', key: 'contact_us', label: 'Contact Us' },
@@ -29,7 +29,7 @@ export const NAV_LINKS = [
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "Schedule an adventure with friends. On holidays, there are many interesting offers from Ziara. That way, there's no more discussion",
     },
     {
       title: 'Technology using augment reality',
@@ -62,7 +62,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Game Drives', 'Camping', 'Picnics', 'Restuarants'],
+      links: ['Game Drives', 'Camping', 'Picnics', 'Restaurants'],
     },
   ];
   

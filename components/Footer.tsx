@@ -29,7 +29,7 @@ const Footer = () => {
                   <Link
                   href="/"
                   key={link.label}
-                  className="lfex gap-4 md:flex-col lg:flex-row"
+                  className="flex gap-4 md:flex-col lg:flex-row"
                   >
                     <p className="whitespace-nowrap">
                       {link.label}:
